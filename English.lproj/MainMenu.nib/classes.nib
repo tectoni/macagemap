@@ -1,0 +1,67 @@
+{
+    IBClasses = (
+        {
+            ACTIONS = {
+                calculateAgeMap = id; 
+                loadRawMapFile = id; 
+                saveAgeImage = id; 
+                saveDataFile = id; 
+                showLargeMapWindow = id; 
+                updateAgeImage = id; 
+            }; 
+            CLASS = AppController; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {
+                ageView = MapImageView; 
+                calculateButton = NSButton; 
+                curItem = id; 
+                histoView = HistoView; 
+                largeImageView = MapImageView; 
+                loadRawPbMapButton = NSButton; 
+                loadRawThMapButton = NSButton; 
+                loadRawUMapButton = NSButton; 
+                mapViewWindow = NSWindow; 
+                pbRawView = MapImageView; 
+                reportText = id; 
+                textFieldAgeThreshold = NSTextField; 
+                textFieldDwell = NSTextField; 
+                textFieldHeight = NSFormCell; 
+                textFieldOvlFac = NSTextField; 
+                textFieldPC = NSTextField; 
+                textFieldPbA = NSTextField; 
+                textFieldPbB = NSTextField; 
+                textFieldPbZAF = NSTextField; 
+                textFieldThA = NSTextField; 
+                textFieldThB = NSTextField; 
+                textFieldThZAF = NSTextField; 
+                textFieldUA = NSTextField; 
+                textFieldUB = NSTextField; 
+                textFieldUZAF = NSTextField; 
+                textFieldWidth = NSFormCell; 
+                thRawView = MapImageView; 
+                thStarView = MapImageView; 
+                uRawView = MapImageView; 
+                updateImageButton = NSButton; 
+                window = NSWindow; 
+            }; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {saveToPDF = id; }; 
+            CLASS = FirstResponder; 
+            LANGUAGE = ObjC; 
+            SUPERCLASS = NSObject; 
+        }, 
+        {
+            ACTIONS = {saveToPDF = id; }; 
+            CLASS = HistoView; 
+            LANGUAGE = ObjC; 
+            OUTLETS = {SaveButton = NSButton; }; 
+            SUPERCLASS = NSView; 
+        }, 
+        {CLASS = LargeImageView; LANGUAGE = ObjC; SUPERCLASS = NSImageView; }, 
+        {CLASS = MapImageView; LANGUAGE = ObjC; SUPERCLASS = NSImageView; }, 
+        {CLASS = MapView; LANGUAGE = ObjC; SUPERCLASS = NSImageView; }
+    ); 
+    IBVersion = 1; 
+}

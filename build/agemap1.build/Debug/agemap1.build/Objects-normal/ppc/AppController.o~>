@@ -1,0 +1,2 @@
+/Users/pappel/Programming/Objective-C/agemap1 Kopie/AppController.m: In function '-[AppController calculateAgeMap:]':
+/Users/pappel/Programming/Objective-C/agemap1 Kopie/AppController.m:258: warning: assignment from distinct Objective-C type

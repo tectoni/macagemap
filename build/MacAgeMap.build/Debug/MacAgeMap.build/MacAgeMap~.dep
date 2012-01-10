@@ -1,0 +1,10 @@
+0ba8e8f9a9fd26a0c8468f9b273de420 958349cb8ed656aadb5536722107b2d7 ffffffffffffffffffffffffffffffff 102 /Users/pappel/Programming/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app
+6dec185aff81459b8d55fa70bf221da6 eee0d59543f01b0dfaf5eaf67662ef6e ffffffffffffffffffffffffffffffff 123600 /Users/pappel/Programming/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap
+000000007911357c000000000000590f 1aa534987da9e3552bdf328d82eb8a1a ffffffffffffffffffffffffffffffff 108972 /Users/pappel/Programming/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/AppController.o
+00000000000061000000000000000450 c9d644810325f4225b45b138d23738c9 ffffffffffffffffffffffffffffffff 19976 /Users/pappel/Programming/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/MapImageView.o
+000000007bfecb35000000000000e783 11dd3c89efbd7c9e56fc134e20dcc39b ffffffffffffffffffffffffffffffff 4700 /Users/pappel/Programming/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/c2a.o
+0000000047bee08800000000000000ff af4254ca28c4d630ab336a8bcf22f545 ffffffffffffffffffffffffffffffff 1168 /Users/pappel/Programming/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/main.o
+00000000000000000000000000000000 10bd57a48e352f49d086ad1228764d83 ffffffffffffffffffffffffffffffff 210 /Users/pappel/Programming/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Resources/English.lproj/InfoPlist.strings
+00000000000000000000000000000000 981972929bb9577f6f60320fc60b5b6b ffffffffffffffffffffffffffffffff 170 /Users/pappel/Programming/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Resources/English.lproj/MainMenu.nib
+0000000047e91c8200000000000004e1 78f26001db5c08a18d79e16e0e2380de ffffffffffffffffffffffffffffffff 8 /Users/pappel/Programming/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/PkgInfo
+0000000047e91c8200000000000004e1 78f26001db5c08a18d79e16e0e2380de ffffffffffffffffffffffffffffffff 1186 /Users/pappel/Programming/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Info.plist
