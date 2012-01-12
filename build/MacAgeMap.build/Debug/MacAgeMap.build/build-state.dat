@@ -1,25 +1,25 @@
 TMacAgeMap
-v7
+v4
 r0
 t285169503.824840
 cCheck dependencies
 cProcessInfoPlistFile /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Info.plist Info.plist
 cStripNIB /Users/pappel/coding/Objective-C/MacAgeMap/English.lproj/MainMenu.nib
 cCopyStringsFile /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-cCpResource build/Debug/MacAgeMap.app/Contents/Resources/map.icns map.icns
-cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/main.o /Users/pappel/coding/Objective-C/MacAgeMap/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/AppController.o /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m normal ppc objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/c2a.o /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c normal ppc c com.apple.compilers.gcc.4_2
-cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/MapImageView.o /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m normal ppc objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/HistoView.o /Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m normal ppc objective-c com.apple.compilers.gcc.4_2
-cLd /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/MacAgeMap normal ppc
-cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/MacAgeMap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/AppController.o /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/c2a.o /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c normal i386 c com.apple.compilers.gcc.4_2
-cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MapImageView.o /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
-cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/HistoView.o /Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCpResource map.icns build/Debug/MacAgeMap.app/Contents/Resources/map.icns
+cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/main.o /Users/pappel/coding/Objective-C/MacAgeMap/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/AppController.o /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/c2a.o /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MapImageView.o /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/HistoView.o /Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/MacAgeMap/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/AppController.o /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cLd /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MacAgeMap normal x86_64
+cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/c2a.o /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MapImageView.o /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+cCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/HistoView.o /Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 cLd /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap normal i386
-cCreateUniversalBinary /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap normal "ppc i386"
+cCreateUniversalBinary /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap normal "x86_64 i386"
 cTouch /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app
 
 N/Developer-3/SDKs/MacOSX10.6.sdk
@@ -83,8 +83,8 @@ t1178315354
 s5331
 
 N/Developer/SDKs/MacOSX10.6.sdk
-c000000004C5342BA00000000000000EE
-t1280524986
+c000000004E99603700000000000000EE
+t1318674487
 s238
 
 N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
@@ -138,8 +138,8 @@ t1056644984
 s1146
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/English.lproj/InfoPlist.strings
-c000000004B4F1FDF00000000000000DC
-t1263476703
+c000000004F0C2A1200000000000000DC
+t1326197266
 s220
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/English.lproj/MainMenu.nib
@@ -160,36 +160,36 @@ s5102
 i"HistoView.h"
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.h
-c000000004A20643B00000000000001D6
-t1243636795
-s470
+c000000004F0C2BEB00000000000001D9
+t1326197739
+s473
 i<Cocoa/Cocoa.h>
 i<Foundation/NSByteOrder.h>
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m
-c0000000047EA4CA000000000000005E3
-t1206537376
-s1507
+c000000004F0C2BEB00000000000005E7
+t1326197739
+s1511
 i"MapImageView.h"
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app
-t1263476703
+t1326197267
 s102
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Info.plist
-t1263476703
-s1357
+t1326197267
+s1678
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap
-t1263471241
-s157500
+t1326197088
+s155456
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/PkgInfo
-t1263476703
+t1326197267
 s8
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Resources/English.lproj/InfoPlist.strings
-t1263476703
+t1326197267
 s220
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Resources/English.lproj/MainMenu.nib
@@ -201,16 +201,16 @@ t1212675938
 s61507
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/AppController.o
-t1263471239
-s79788
+t1326197087
+s80400
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/HistoView.o
 t1243637005
 s36052
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap
-t1263471241
-s71484
+t1326197088
+s73536
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap.LinkFileList
 c000000004B4F0A82000000000000024F
@@ -218,12 +218,12 @@ t1263471234
 s591
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MapImageView.o
-t1263471240
-s18380
+t1326197088
+s15320
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/c2a.o
-t1263471240
-s4920
+t1326197087
+s4348
 
 N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/main.o
 t1243636989
@@ -258,6 +258,35 @@ N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMa
 t1206579426
 s1168
 
+N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/AppController.o
+t1326197081
+s110400
+
+N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/HistoView.o
+t1326197082
+s34572
+
+N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MacAgeMap
+t1326197086
+s77412
+
+N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MacAgeMap.LinkFileList
+c000000004F0C294C0000000000000259
+t1326197068
+s601
+
+N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MapImageView.o
+t1326197081
+s19552
+
+N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/c2a.o
+t1326197081
+s4612
+
+N/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/main.o
+t1326197081
+s2200
+
 N/Users/pappel/coding/Objective-C/MacAgeMap/c2a.c
 c0000000047E12FFE0000000000001027
 t1205940222
@@ -285,13 +314,28 @@ t1212675165
 s61507
 
 NInfo.plist
-c000000004B4F1FDF000000000000055C
-t1263476703
-s1372
+c000000004F0C29590000000000000514
+t1326197081
+s1300
+
+CBuild AST from /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m
+r0
+
+CBuild AST from /Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m
+r0
+
+CBuild AST from /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m
+r0
+
+CBuild AST from /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c
+r0
+
+CBuild AST from /Users/pappel/coding/Objective-C/MacAgeMap/main.m
+r0
 
 CCheck dependencies
 r0
-lSLF07#2@18"Check dependencies285169503#285169503#0(0"0(0#1#0"4300885448#0"0#
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Check dependenciese84a5c6b63bcb441^3527c36b63bcb441^---0#1#0#--18"Check dependencies36"A3A4CE15-9E00-43D3-8CEA-D08609FE0D8A-
 
 CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/AppController.o /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m normal i386 objective-c com.apple.compilers.gcc.4_2
 s285164038.461033
@@ -306,7 +350,39 @@ xobjective-c
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@66"Compile /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m285164038#285164039#0(0"0(0#0#58"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m4300885448#967"    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -c /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/AppController.o0#
 
+CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/AppController.o /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s347890541.030409
+e347890544.227823
+r1
+xCompileC
+xbuild/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/AppController.o
+x/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:245:25:{245:23-245:26}{245:44-245:65}: warning: conversion specifies type 'unsigned short' but the argument has type 'unsigned long' [-Wformat,9]
+o   NSLog(@"sizeof uc,  %hu, sizeof us %hu", sizeof(unsigned char), sizeof(unsigned short));
+o                       ~~^                  ~~~~~~~~~~~~~~~~~~~~~
+o                       %lu
+ofix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{245:23-245:26}:"%lu"
+o/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:245:40:{245:38-245:41}{245:67-245:89}: warning: conversion specifies type 'unsigned short' but the argument has type 'unsigned long' [-Wformat,9]
+o   NSLog(@"sizeof uc,  %hu, sizeof us %hu", sizeof(unsigned char), sizeof(unsigned short));
+o                                      ~~^                          ~~~~~~~~~~~~~~~~~~~~~~
+o                                      %lu
+ofix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{245:38-245:41}:"%lu"
+o/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:658:22:{658:20-658:23}{658:26-658:33}: warning: conversion specifies type 'short' but the argument has type 'int' [-Wformat,9]
+o         NSLog(@"max_age,  %hi", max_age);
+o                           ~~^   ~~~~~~~
+o                           %d
+ofix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{658:20-658:23}:"%d"
+o3 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m08e3076d63bcb441^516b3a7063bcb441^-1410"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:245:25:{245:23-245:26}{245:44-245:65}: warning: conversion specifies type 'unsigned short' but the argument has type 'unsigned long' [-Wformat,9]   NSLog(@"sizeof uc,  %hu, sizeof us %hu", sizeof(unsigned char), sizeof(unsigned short));                       ~~^                  ~~~~~~~~~~~~~~~~~~~~~                       %lufix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{245:23-245:26}:"%lu"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:245:40:{245:38-245:41}{245:67-245:89}: warning: conversion specifies type 'unsigned short' but the argument has type 'unsigned long' [-Wformat,9]   NSLog(@"sizeof uc,  %hu, sizeof us %hu", sizeof(unsigned char), sizeof(unsigned short));                                      ~~^                          ~~~~~~~~~~~~~~~~~~~~~~                                      %lufix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{245:38-245:41}:"%lu"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:658:22:{658:20-658:23}{658:26-658:33}: warning: conversion specifies type 'short' but the argument has type 'int' [-Wformat,9]         NSLog(@"max_age,  %hi", max_age);                           ~~^   ~~~~~~~                           %dfix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{658:20-658:23}:"%d"3 warnings generated.3(21%IDEActivityLogMessage2@84"Conversion specifies type 'unsigned short' but the argument has type 'unsigned long'-347890542#0#205#1(26%IDEActivityLogFixItMessage3@24"Fix-It: replace with %lu-347890542#390#90#-0#23"com.apple.dt.IDE.fix-it23%DVTTextDocumentLocation4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#22#244#25#18446744073709551615#0#---3"%lu1#-4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#24#244#24#18446744073709551615#0#19"Format String Issue2(4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#22#244#25#18446744073709551615#0#4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#43#244#64#18446744073709551615#0#-2@84"Conversion specifies type 'unsigned short' but the argument has type 'unsigned long'-347890542#480#205#1(3@24"Fix-It: replace with %lu-347890542#909#90#-0#23"com.apple.dt.IDE.fix-it4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#37#244#40#18446744073709551615#0#---3"%lu1#-4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#39#244#39#18446744073709551615#0#19"Format String Issue2(4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#37#244#40#18446744073709551615#0#4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#66#244#88#18446744073709551615#0#-2@65"Conversion specifies type 'short' but the argument has type 'int'-347890542#999#186#1(3@23"Fix-It: replace with %d-347890542#1299#89#-0#23"com.apple.dt.IDE.fix-it4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^657#19#657#22#18446744073709551615#0#---2"%d1#-4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^657#21#657#21#18446744073709551615#0#19"Format String Issue2(4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^657#19#657#22#18446744073709551615#0#4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^657#25#657#32#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation5@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^1648"CompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/AppController.o AppController.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -MMD -MT dependencies -MF /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/AppController.d -c /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/AppController.o36"18F699B7-6346-4C16-B0FE-B6A55D2AD54B-
+
 CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/HistoView.o /Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/HistoView.o /Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
 CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MapImageView.o /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m normal i386 objective-c com.apple.compilers.gcc.4_2
@@ -324,6 +400,19 @@ o/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m:80: warning: incomple
 o/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m:80: warning: method definition for '-setPixelValue:' not found
 lSLF07#2@65"Compile /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m285164039#285164040#0(242"/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m:80: warning: incomplete implementation of class 'MapImageView'/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m:80: warning: method definition for '-setPixelValue:' not found2(22@49"Incomplete implementation of class 'MapImageView'285164040#0#121#0(6@57"/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m228230176#80#0#80#0#38"incomplete implementation of class '*'0(22@49"Method definition for '-setPixelValue:' not found285164040#121#121#0(6@57"/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m228230176#80#0#80#0#35"method definition for '*' not found0(0#0#57"/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m4300885448#965"    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -c /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MapImageView.o0#
 
+CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MapImageView.o /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s347890541.600107
+e347890544.034922
+r1
+xCompileC
+xbuild/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MapImageView.o
+x/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m40bd996d63bcb441^5dfd087063bcb441^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m0000000000000000^1643"CompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MapImageView.o MapImageView.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -MMD -MT dependencies -MF /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MapImageView.d -c /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MapImageView.o36"3DE11CAA-1105-4DD6-8EBE-032BFC67A6F4-
+
 CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/c2a.o /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c normal i386 c com.apple.compilers.gcc.4_2
 s285164039.799986
 e285164040.224511
@@ -337,7 +426,23 @@ xc
 xcom.apple.compilers.gcc.4_2
 lSLF07#2@56"Compile /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c285164039#285164040#0(0"0(0#0#48"/Users/pappel/coding/Objective-C/MacAgeMap/c2a.c4300885448#937"    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x c -arch i386 -fmessage-length=0 -pipe -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -c /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/c2a.o0#
 
+CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/c2a.o /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler
+s347889887.654264
+e347889887.687675
+r1
+xCompileC
+xbuild/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/c2a.o
+x/Users/pappel/coding/Objective-C/MacAgeMap/c2a.c
+xnormal
+xi386
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/pappel/coding/Objective-C/MacAgeMap/c2a.cab97a7df60bcb441^910db0df60bcb441^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/c2a.c0000000000000000^1415"CompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/c2a.o c2a.c normal i386 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch i386 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/i386 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -MMD -MT dependencies -MF /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/c2a.d -c /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/c2a.o36"A66129C5-0ECB-4546-8C74-DF40EA735FFC-
+
 CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/MacAgeMap/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/main.o /Users/pappel/coding/Objective-C/MacAgeMap/main.m normal i386 objective-c com.apple.compilers.llvm.clang.1_0.compiler
 r0
 
 CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/AppController.o /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m normal ppc objective-c com.apple.compilers.gcc.4_2
@@ -387,16 +492,119 @@ lSLF07#2@56"Compile /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c285164034#28
 CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/main.o /Users/pappel/coding/Objective-C/MacAgeMap/main.m normal ppc objective-c com.apple.compilers.gcc.4_2
 r0
 
+CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/AppController.o /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s347890539.769479
+e347890541.391674
+r1
+xCompileC
+xbuild/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/AppController.o
+x/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:118:36:{118:35-118:37}{118:40-118:61}: warning: conversion specifies type 'int' but the argument has type 'NSUInteger' (aka 'unsigned long') [-Wformat,9]
+o                                 NSLog(@"get Bytes from thMap  %i", [thRawMapData length] ); 
+o                                                               ~^   ~~~~~~~~~~~~~~~~~~~~~
+o                                                               %lu
+ofix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{118:35-118:37}:"%lu"
+o/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:132:35:{132:34-132:36}{132:39-132:59}: warning: conversion specifies type 'int' but the argument has type 'NSUInteger' (aka 'unsigned long') [-Wformat,9]
+o                                 NSLog(@"get Bytes from UMap  %i", [uRawMapData length] ); 
+o                                                              ~^   ~~~~~~~~~~~~~~~~~~~~
+o                                                              %lu
+ofix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{132:34-132:36}:"%lu"
+o/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:146:36:{146:35-146:37}{146:40-146:61}: warning: conversion specifies type 'int' but the argument has type 'NSUInteger' (aka 'unsigned long') [-Wformat,9]
+o                                 NSLog(@"get Bytes from PbMap  %i", [pbRawMapData length] ); 
+o                                                               ~^   ~~~~~~~~~~~~~~~~~~~~~
+o                                                               %lu
+ofix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{146:35-146:37}:"%lu"
+o/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:245:25:{245:23-245:26}{245:44-245:65}: warning: conversion specifies type 'unsigned short' but the argument has type 'unsigned long' [-Wformat,9]
+o   NSLog(@"sizeof uc,  %hu, sizeof us %hu", sizeof(unsigned char), sizeof(unsigned short));
+o                       ~~^                  ~~~~~~~~~~~~~~~~~~~~~
+o                       %lu
+ofix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{245:23-245:26}:"%lu"
+o/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:245:40:{245:38-245:41}{245:67-245:89}: warning: conversion specifies type 'unsigned short' but the argument has type 'unsigned long' [-Wformat,9]
+o   NSLog(@"sizeof uc,  %hu, sizeof us %hu", sizeof(unsigned char), sizeof(unsigned short));
+o                                      ~~^                          ~~~~~~~~~~~~~~~~~~~~~~
+o                                      %lu
+ofix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{245:38-245:41}:"%lu"
+o/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:658:22:{658:20-658:23}{658:26-658:33}: warning: conversion specifies type 'short' but the argument has type 'int' [-Wformat,9]
+o         NSLog(@"max_age,  %hi", max_age);
+o                           ~~^   ~~~~~~~
+o                           %d
+ofix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{658:20-658:23}:"%d"
+o6 warnings generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection66"Compile /Users/pappel/coding/Objective-C/MacAgeMap/AppController.mcf15c56b63bcb441^9f926f6d63bcb441^-3067"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:118:36:{118:35-118:37}{118:40-118:61}: warning: conversion specifies type 'int' but the argument has type 'NSUInteger' (aka 'unsigned long') [-Wformat,9]                                 NSLog(@"get Bytes from thMap  %i", [thRawMapData length] );                                                                ~^   ~~~~~~~~~~~~~~~~~~~~~                                                               %lufix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{118:35-118:37}:"%lu"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:132:35:{132:34-132:36}{132:39-132:59}: warning: conversion specifies type 'int' but the argument has type 'NSUInteger' (aka 'unsigned long') [-Wformat,9]                                 NSLog(@"get Bytes from UMap  %i", [uRawMapData length] );                                                               ~^   ~~~~~~~~~~~~~~~~~~~~                                                              %lufix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{132:34-132:36}:"%lu"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:146:36:{146:35-146:37}{146:40-146:61}: warning: conversion specifies type 'int' but the argument has type 'NSUInteger' (aka 'unsigned long') [-Wformat,9]                                 NSLog(@"get Bytes from PbMap  %i", [pbRawMapData length] );                                                                ~^   ~~~~~~~~~~~~~~~~~~~~~                                                               %lufix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{146:35-146:37}:"%lu"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:245:25:{245:23-245:26}{245:44-245:65}: warning: conversion specifies type 'unsigned short' but the argument has type 'unsigned long' [-Wformat,9]   NSLog(@"sizeof uc,  %hu, sizeof us %hu", sizeof(unsigned char), sizeof(unsigned short));                       ~~^                  ~~~~~~~~~~~~~~~~~~~~~                       %lufix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{245:23-245:26}:"%lu"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:245:40:{245:38-245:41}{245:67-245:89}: warning: conversion specifies type 'unsigned short' but the argument has type 'unsigned long' [-Wformat,9]   NSLog(@"sizeof uc,  %hu, sizeof us %hu", sizeof(unsigned char), sizeof(unsigned short));                                      ~~^                          ~~~~~~~~~~~~~~~~~~~~~~                                      %lufix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{245:38-245:41}:"%lu"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m:658:22:{658:20-658:23}{658:26-658:33}: warning: conversion specifies type 'short' but the argument has type 'int' [-Wformat,9]         NSLog(@"max_age,  %hi", max_age);                           ~~^   ~~~~~~~                           %dfix-it:"/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m":{658:20-658:23}:"%d"6 warnings generated.6(21%IDEActivityLogMessage2@92"Conversion specifies type 'int' but the argument has type 'NSUInteger' (aka 'unsigned long')70"Conversion specifies type 'int' but the argument has type 'NSUInteger'347890541#0#213#1(26%IDEActivityLogFixItMessage3@24"Fix-It: replace with %lu-347890541#464#90#-0#23"com.apple.dt.IDE.fix-it23%DVTTextDocumentLocation4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^117#34#117#36#18446744073709551615#0#---3"%lu1#-4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^117#35#117#35#18446744073709551615#0#19"Format String Issue2(4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^117#34#117#36#18446744073709551615#0#4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^117#39#117#60#18446744073709551615#0#-2@92"Conversion specifies type 'int' but the argument has type 'NSUInteger' (aka 'unsigned long')70"Conversion specifies type 'int' but the argument has type 'NSUInteger'347890541#554#213#1(3@24"Fix-It: replace with %lu-347890541#1013#90#-0#23"com.apple.dt.IDE.fix-it4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^131#33#131#35#18446744073709551615#0#---3"%lu1#-4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^131#34#131#34#18446744073709551615#0#19"Format String Issue2(4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^131#33#131#35#18446744073709551615#0#4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^131#38#131#58#18446744073709551615#0#-2@92"Conversion specifies type 'int' but the argument has type 'NSUInteger' (aka 'unsigned long')70"Conversion specifies type 'int' but the argument has type 'NSUInteger'347890541#1103#213#1(3@24"Fix-It: replace with %lu-347890541#1567#90#-0#23"com.apple.dt.IDE.fix-it4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^145#34#145#36#18446744073709551615#0#---3"%lu1#-4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^145#35#145#35#18446744073709551615#0#19"Format String Issue2(4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^145#34#145#36#18446744073709551615#0#4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^145#39#145#60#18446744073709551615#0#-2@84"Conversion specifies type 'unsigned short' but the argument has type 'unsigned long'-347890541#1657#205#1(3@24"Fix-It: replace with %lu-347890541#2047#90#-0#23"com.apple.dt.IDE.fix-it4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#22#244#25#18446744073709551615#0#---3"%lu1#-4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#24#244#24#18446744073709551615#0#19"Format String Issue2(4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#22#244#25#18446744073709551615#0#4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#43#244#64#18446744073709551615#0#-2@84"Conversion specifies type 'unsigned short' but the argument has type 'unsigned long'-347890541#2137#205#1(3@24"Fix-It: replace with %lu-347890541#2566#90#-0#23"com.apple.dt.IDE.fix-it4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#37#244#40#18446744073709551615#0#---3"%lu1#-4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#39#244#39#18446744073709551615#0#19"Format String Issue2(4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#37#244#40#18446744073709551615#0#4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^244#66#244#88#18446744073709551615#0#-2@65"Conversion specifies type 'short' but the argument has type 'int'-347890541#2656#186#1(3@23"Fix-It: replace with %d-347890541#2956#89#-0#23"com.apple.dt.IDE.fix-it4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^657#19#657#22#18446744073709551615#0#---2"%d1#-4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^657#21#657#21#18446744073709551615#0#19"Format String Issue2(4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^657#19#657#22#18446744073709551615#0#4@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^657#25#657#32#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation5@74"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/AppController.m0000000000000000^1660"CompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/AppController.o AppController.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/x86_64 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -MMD -MT dependencies -MF /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/AppController.d -c /Users/pappel/coding/Objective-C/MacAgeMap/AppController.m -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/AppController.o36"FEBEBCEC-CD9C-404E-87D1-DF25F9698F2A-
+
+CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/HistoView.o /Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s347889881.950345
+e347889882.570218
+r1
+xCompileC
+xbuild/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/HistoView.o
+x/Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+o/Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m:199:19:{199:8-199:18}: warning: data argument not used by format string [-Wformat-extra-args,9]
+o         NSLog(@"savePDF",self);
+o               ~~~~~~~~~~ ^
+o1 warning generated.
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection62"Compile /Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m1860f3d960bcb441^2eff91da60bcb441^-233"/Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m:199:19:{199:8-199:18}: warning: data argument not used by format string [-Wformat-extra-args,9]         NSLog(@"savePDF",self);               ~~~~~~~~~~ ^1 warning generated.1(21%IDEActivityLogMessage2@39"Data argument not used by format string-347889882#0#151#-1#-23%DVTTextDocumentLocation3@70"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m0000000000000000^198#18#198#18#18446744073709551615#0#19"Format String Issue1(3@70"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m0000000000000000^198#7#198#17#18446744073709551615#0#-0#0#0#-19%DVTDocumentLocation4@70"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m0000000000000000^1640"CompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/HistoView.o HistoView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/x86_64 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -MMD -MT dependencies -MF /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/HistoView.d -c /Users/pappel/coding/Objective-C/MacAgeMap/HistoView.m -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/HistoView.o36"394E8423-5C8A-48A8-9F3E-DCFD61A82032-
+
+CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MapImageView.o /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s347890539.772386
+e347890541.026643
+r1
+xCompileC
+xbuild/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MapImageView.o
+x/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection65"Compile /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.mdfe2c56b63bcb441^82e3066d63bcb441^---0#0#0#-19%DVTDocumentLocation2@73"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m0000000000000000^1655"CompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MapImageView.o MapImageView.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/x86_64 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -MMD -MT dependencies -MF /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MapImageView.d -c /Users/pappel/coding/Objective-C/MacAgeMap/MapImageView.m -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MapImageView.o36"96B4FCC2-5EF1-4879-B96B-EF939764999F-
+
+CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/c2a.o /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler
+s347889881.064092
+e347889881.140362
+r1
+xCompileC
+xbuild/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/c2a.o
+x/Users/pappel/coding/Objective-C/MacAgeMap/c2a.c
+xnormal
+xx86_64
+xc
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection56"Compile /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c5f7d10d960bcb441^8bfb23d960bcb441^---0#0#0#-19%DVTDocumentLocation2@64"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/c2a.c0000000000000000^1427"CompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/c2a.o c2a.c normal x86_64 c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/x86_64 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -MMD -MT dependencies -MF /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/c2a.d -c /Users/pappel/coding/Objective-C/MacAgeMap/c2a.c -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/c2a.o36"ABB72FD5-0489-47B8-8D27-E5697DA08694-
+
+CCompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/main.o /Users/pappel/coding/Objective-C/MacAgeMap/main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler
+s347889868.253635
+e347889881.061472
+r1
+xCompileC
+xbuild/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/main.o
+x/Users/pappel/coding/Objective-C/MacAgeMap/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.llvm.clang.1_0.compiler
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection57"Compile /Users/pappel/coding/Objective-C/MacAgeMap/main.mff0641cc60bcb441^8c2d10d960bcb441^---0#0#0#-19%DVTDocumentLocation2@65"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/main.m0000000000000000^1615"CompileC build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/main.o main.m normal x86_64 objective-c com.apple.compilers.llvm.clang.1_0.compiler    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv LANG en_US.US-ASCII    /Developer/usr/bin/clang -x objective-c -arch x86_64 -fmessage-length=0 -fdiagnostics-print-source-range-info -fdiagnostics-show-category=id -fdiagnostics-parseable-fixits -Wno-trigraphs -fpascal-strings -O0 -Wreturn-type -Wparentheses -Wswitch -Wno-unused-parameter -Wunused-variable -Wunused-value -Wno-shorten-64-to-32 -isysroot /Developer/SDKs/MacOSX10.6.sdk -fasm-blocks -mmacosx-version-min=10.5 -gdwarf-2 -fvisibility=hidden -Wno-sign-conversion "-DIBOutlet=__attribute__((iboutlet))" "-DIBOutletCollection(ClassName)=__attribute__((iboutletcollection(ClassName)))" "-DIBAction=void)__attribute__((ibaction)" -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/MacAgeMap.hmap -I/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/include -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources/x86_64 -I/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/DerivedSources -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -MMD -MT dependencies -MF /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/main.d -c /Users/pappel/coding/Objective-C/MacAgeMap/main.m -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/main.o36"311D0185-EE4E-43E7-AC13-658C6E0C4F83-
+
 CCopyStringsFile /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
-s285169503.660762
-e285169503.821246
+s347890067.108834
+e347890067.164131
 r1
 xCopyStringsFile
 x/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Resources/English.lproj/InfoPlist.strings
 xEnglish.lproj/InfoPlist.strings
-lSLF07#2@36"Copy English.lproj/InfoPlist.strings285169503#285169503#0(0"0(0#0#74"/Users/pappel/coding/Objective-C/MacAgeMap/English.lproj/InfoPlist.strings4300885448#376"    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-16 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Resources/English.lproj0#
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection36"Copy English.lproj/InfoPlist.strings84f51b9361bcb441^68052a9361bcb441^---0#0#0#-19%DVTDocumentLocation2@90"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/English.lproj/InfoPlist.strings0000000000000000^403"CopyStringsFile build/Debug/MacAgeMap.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings    cd /Users/pappel/coding/Objective-C/MacAgeMap    builtin-copyStrings --validate --inputencoding utf-16 --outputencoding UTF-16 --outdir /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Resources/English.lproj -- English.lproj/InfoPlist.strings36"EECAD32D-923A-47C6-81B8-CB7FA745786E-
 
 CCpResource build/Debug/MacAgeMap.app/Contents/Resources/map.icns map.icns
+r0
+
+CCpResource map.icns build/Debug/MacAgeMap.app/Contents/Resources/map.icns
 r0
 
 CCreateUniversalBinary /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap normal "ppc i386"
@@ -409,15 +617,28 @@ xnormal
 xppc i386
 lSLF07#2@90"CreateUniversalBinary build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap normal "ppc i386"285164041#285164041#0(0"0(0#0#51"/Users/pappel/coding/Objective-C/MacAgeMap/ppc i3864300885448#411"    cd /Users/pappel/coding/Objective-C/MacAgeMap    /usr/bin/lipo -create /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/MacAgeMap /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap -output /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap0#
 
+CCreateUniversalBinary /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap normal "x86_64 i386"
+s347890544.686172
+e347890544.750494
+r1
+xCreateUniversalBinary
+x/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap
+xnormal
+xx86_64 i386
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection117"Create universal binary /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap06bdaf7063bcb441^2635c07063bcb441^---0#0#0#-19%DVTDocumentLocation2@109"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap0000000000000000^508"CreateUniversalBinary build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap normal "x86_64 i386"    cd /Users/pappel/coding/Objective-C/MacAgeMap    /usr/bin/lipo -create /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MacAgeMap /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap -output /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap36"0A4C1A99-F57A-41BD-94C4-6DA5C2ADACC8-
+
+CLd /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/MacOS/MacAgeMap normal i386
+r0
+
 CLd /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap normal i386
-s285164040.596973
-e285164041.088303
+s347890544.257251
+e347890544.608759
 r1
 xLd
 x/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap
 xnormal
 xi386
-lSLF07#2@121"Link /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap285164040#285164041#0(0"0(0#0#0"4300885448#591"    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -filelist /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap0#
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection121"Link /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap4511427063bcb441^82e29b7063bcb441^---0#0#0#--678"Ld build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap normal i386    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang -arch i386 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -filelist /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/i386/MacAgeMap36"F7BD8E30-7404-4D21-9615-55F011326865-
 
 CLd /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/MacAgeMap normal ppc
 s285164038.582915
@@ -429,23 +650,33 @@ xnormal
 xppc
 lSLF07#2@120"Link /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/MacAgeMap285164038#285164039#0(0"0(0#0#0"4300885448#588"    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch ppc -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -filelist /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/MacAgeMap.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/ppc/MacAgeMap0#
 
+CLd /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MacAgeMap normal x86_64
+s347890541.392994
+e347890541.597686
+r1
+xLd
+x/Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MacAgeMap
+xnormal
+xx86_64
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection123"Link /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MacAgeMap51be646d63bcb441^d40c996d63bcb441^---0#0#0#--688"Ld build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MacAgeMap normal x86_64    cd /Users/pappel/coding/Objective-C/MacAgeMap    setenv MACOSX_DEPLOYMENT_TARGET 10.5    /Developer/usr/bin/clang -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -F/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug -filelist /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MacAgeMap.LinkFileList -mmacosx-version-min=10.5 -framework Cocoa -o /Users/pappel/coding/Objective-C/MacAgeMap/build/MacAgeMap.build/Debug/MacAgeMap.build/Objects-normal/x86_64/MacAgeMap36"6A0FFAD1-639C-4187-A3A2-4AB672F9967D-
+
 CProcessInfoPlistFile /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Info.plist Info.plist
-s285169503.651046
-e285169503.660129
+s347890067.075070
+e347890067.103514
 r1
 xProcessInfoPlistFile
 x/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Info.plist
 xInfo.plist
-lSLF07#2@18"Process Info.plist285169503#285169503#0(0"0(0#0#53"/Users/pappel/coding/Objective-C/MacAgeMap/Info.plist4300885448#318"    cd /Users/pappel/coding/Objective-C/MacAgeMap    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Info.plist0#
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection18"Process Info.plistd847139361bcb441^397d299361bcb441^---0#0#0#-19%DVTDocumentLocation2@69"file://localhost/Users/pappel/coding/Objective-C/MacAgeMap/Info.plist0000000000000000^396"ProcessInfoPlistFile build/Debug/MacAgeMap.app/Contents/Info.plist Info.plist    cd /Users/pappel/coding/Objective-C/MacAgeMap    builtin-infoPlistUtility Info.plist -genpkginfo /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app/Contents/Info.plist36"54807731-F122-429A-BAE5-79690832497F-
 
 CStripNIB /Users/pappel/coding/Objective-C/MacAgeMap/English.lproj/MainMenu.nib
 r0
 
 CTouch /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app
-s285169503.822092
-e285169503.824796
+s347890544.859242
+e347890544.938302
 r1
 xTouch
 x/Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app
-lSLF07#2@74"Touch /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app285169503#285169503#0(0"0(0#0#0"4300885448#141"    cd /Users/pappel/coding/Objective-C/MacAgeMap    /usr/bin/touch -c /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app0#
+lSLF04#21%IDEActivityLogSection1@2#32"com.apple.dt.IDE.BuildLogSection74"Touch /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app3e09dc7063bcb441^868ff07063bcb441^---0#0#0#--173"Touch build/Debug/MacAgeMap.app    cd /Users/pappel/coding/Objective-C/MacAgeMap    /usr/bin/touch -c /Users/pappel/coding/Objective-C/MacAgeMap/build/Debug/MacAgeMap.app36"1A7ACB76-C7A0-46B1-8F27-E4F87EDC3CE6-
 

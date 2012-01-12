@@ -13,7 +13,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "119"
-         endingLineNumber = "119">
+         endingLineNumber = "119"
+         landmarkName = "-openPanelDidEnd:returnCode:contextInfo:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -25,7 +27,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "111"
-         endingLineNumber = "111">
+         endingLineNumber = "111"
+         landmarkName = "-openPanelDidEnd:returnCode:contextInfo:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -37,7 +41,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "160"
-         endingLineNumber = "160">
+         endingLineNumber = "160"
+         landmarkName = "-openPanelDidEnd:returnCode:contextInfo:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "No"
@@ -49,7 +55,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "92"
-         endingLineNumber = "92">
+         endingLineNumber = "92"
+         landmarkName = "-loadRawMapFile:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "Yes"
@@ -61,7 +69,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "28"
-         endingLineNumber = "28">
+         endingLineNumber = "28"
+         landmarkName = "-mouseDown:"
+         landmarkType = "5">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "Yes"
@@ -73,7 +83,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "487"
-         endingLineNumber = "487">
+         endingLineNumber = "487"
+         landmarkName = "@implementation AppController"
+         landmarkType = "3">
       </FileBreakpoint>
       <FileBreakpoint
          shouldBeEnabled = "Yes"
@@ -85,7 +97,9 @@
          startingColumnNumber = "9223372036854775807"
          endingColumnNumber = "9223372036854775807"
          startingLineNumber = "117"
-         endingLineNumber = "117">
+         endingLineNumber = "117"
+         landmarkName = "-drawRect:"
+         landmarkType = "5">
       </FileBreakpoint>
    </FileBreakpoints>
 </Bucket>

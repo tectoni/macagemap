@@ -40,7 +40,7 @@
 
     if (!([event modifierFlags] & NSControlKeyMask))
     {
-		NSLog(@"mouseDragged: %@", event);
+//		NSLog(@"mouseDragged: %@", event);
         [self setPosition:pos];
         [self broadcast];
         [self setNeedsDisplay:YES];
@@ -62,7 +62,7 @@
 
 - (void) mouseUp:(NSEvent *) theEvent 
 { 
-	NSLog(@"mouseUp:");
+//	NSLog(@"mouseUp:");
 }
 
 - (NSPoint)position

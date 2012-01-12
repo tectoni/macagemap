@@ -18,7 +18,7 @@ NSPoint lastPoint;
 NSPoint position;
 }
 
--(void)setPixelValue:(int)newValue;
+// -(void)setPixelValue:(int)newValue;
 -(void)broadcast;
 -(void)drawRect:(NSRect)rect;
 
